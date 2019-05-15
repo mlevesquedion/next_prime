@@ -5,5 +5,6 @@ authors = ["Michaël Lévesque-Dion <mlevesquedion@gmail.com>"]
 edition = "2018"
 description = "A function that returns the next prime greater than or equal to its argument"
 license = "MIT"
+repository = "https://github.com/mlevesquedion/next_prime" 
 
 [dependencies]
